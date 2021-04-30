@@ -8,6 +8,6 @@ I'm Backend an Mobile Developer and Student 💻📱✨
 
 <ul>
   <li>🚀 ┇I’m currently working at Telemont Engenharia</li>
-  <li>☕ ┇Java and Kotlin
+  <li>☕ ┇Java | Kotlin | Angular
   <li>😍 ┇Passionate about technology and its impact on people's lives</li>
 </ul>
