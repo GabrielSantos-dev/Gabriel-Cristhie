@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielsantos-dev&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielsantos-dev" /> </p>
 
-- 🔭 I’m currently working on **Telemont Engenharia**
+- 🔭 I’m currently working on **Stefanini Group**
 
 - 🌱 I’m currently learning **SpringBoot, Android**
 
