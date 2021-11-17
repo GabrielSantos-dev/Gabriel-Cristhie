@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielsantos-dev&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielsantos-dev" /> </p>
 
-- 🔭 I’m currently working on **Stefanini Group**
+- 🔭 I’m currently working on **Capgemini**
 
-- 🌱 I’m currently learning **SpringBoot, Android**
+- 🌱 I’m currently learning **SpringBoot, Android & Angular**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GabrielSantos-dev](https://github.com/GabrielSantos-dev)
 
