@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **SpringBoot, Android & Angular**
 
-- 👨‍💻 All of my projects are available at [https://github.com/GabrielSantos-dev](https://github.com/GabrielSantos-dev)
+- 👨‍💻 All of my projects are available at [https://github.com/gabrielcristhie](https://github.com/gabrielcristhie)
 
 - 📝 I regularly write articles on [https://medium.com/@gabrielcristhie](https://medium.com/@gabrielcristhie)
 
