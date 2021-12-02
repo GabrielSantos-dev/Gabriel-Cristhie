@@ -17,7 +17,7 @@
 
 <hr>
 
-![Gabriel Status](https://github-readme-stats.vercel.app/api?username=gabrielcristhie&show_icons=true&theme=dark)![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcristhie&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Gabriel Status](https://github-readme-stats.vercel.app/api?username=gabrielcristhie&show_icons=true&theme=dark)![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcristhie&layout=default&theme=dark)
 
 <hr>
 
