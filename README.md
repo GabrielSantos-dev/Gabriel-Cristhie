@@ -17,7 +17,15 @@
 
 <hr>
 
-![Gabriel Status](https://github-readme-stats.vercel.app/api?username=gabrielcristhie&show_icons=true&theme=dark&layout=compact)![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcristhie&layout=compact&theme=dark)
+## Github Stats :octocat:
+<center>
+<table>
+  <tr>
+    <td><img align="left" padding-right="10px" src=https://github-readme-stats.vercel.app/api?username=gabrielcristhie&showicons=true&theme=radical></td>
+    <td><img align="left" padding-right="10px" src=https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcristhie&show_icons=true&layout=compact&theme=radical></td>
+  </tr>  
+</table>
+</center>
 
 <hr>
 
