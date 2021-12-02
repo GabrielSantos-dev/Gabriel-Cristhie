@@ -15,7 +15,15 @@
 
 - 📫 How to reach me **gcristhie@hotmail.com**
 
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=gabrielcristhie&show_icons=true)
+<hr>
+
+![Gabriel Status](https://github-readme-stats.vercel.app/api?username=gabrielcristhie&show_icons=true&theme=dark)
+
+![Gabriel Status] wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabrielcristhie)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcristhie&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
