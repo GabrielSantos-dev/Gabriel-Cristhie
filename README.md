@@ -17,11 +17,7 @@
 
 <hr>
 
-![Gabriel Status](https://github-readme-stats.vercel.app/api?username=gabrielcristhie&show_icons=true&theme=dark)
-
-![Gabriel Status] wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabrielcristhie)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcristhie&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Gabriel Status](https://github-readme-stats.vercel.app/api?username=gabrielcristhie&show_icons=true&theme=dark)![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcristhie&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 
