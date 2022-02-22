@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **Capgemini**
 
-- 🌱 I’m currently learning **SpringBoot, Android & Angular**
+- 🌱 I’m currently learning **Java and Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gabrielcristhie](https://github.com/gabrielcristhie)
 
 - 📝 I regularly write articles on [https://medium.com/@gabrielcristhie](https://medium.com/@gabrielcristhie)
 
-- 💬 Ask me about **Java,Kotlin**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **gcristhie@hotmail.com**
 
