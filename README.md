@@ -16,7 +16,6 @@
 - 📫 How to reach me **gcristhie@hotmail.com**
 
 <hr>
-<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
