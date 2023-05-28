@@ -36,16 +36,6 @@ Meu nome é Gabriel Cristhiê. Sou estudante de Sistemas de Informação na Univ
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white)
 <hr>
 
-<div align = "center">
- 
-![Status Lelepg](https://github-readme-stats.vercel.app/api?username=gabrielcristhie&show_icons=true&theme=dracula) 
- 
-![Github Trophies](https://github-profile-trophy.vercel.app/?username=gabrielcristhie&theme=dracula&column=6&row=1&margin-w=10)
- 
-</div>
-
-<hr>
-
 <h3 align="left">Se conecte comigo :</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/gabrielcristhie/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabrielcristhie/" height="30" width="40" /></a>
