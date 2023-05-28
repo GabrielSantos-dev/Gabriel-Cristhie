@@ -1,5 +1,7 @@
 ## 👨‍💻 Sobre mim :
-Meu nome é Gabriel Cristhiê. Sou estudante de Sistemas de Informação na Universidade Federal de Goiás e Consultor de Soluções Digitais II na Capgemini. Sou apaixonado em desenvolvimento Backend e me interesso sobre Machine Learning. 
+Olá, meu nome é Gabriel e sou um desenvolvedor Full Stack apaixonado por tecnologias Java, Spring Framework, Spring Boot, Hibernate, JPA, JSP e JSF, bem como Angular, TypeScript e JavaScript, para criar aplicações web escaláveis e de alta performance. Também tenho experiência em testes automatizados com JUnit5 e Mockito.
+
+Sou um entusiasta programação competitiva, manipulação de imagem, modelagem 3D, machine learning, análise de dados , Web Scraping.
 
 <hr>
 
